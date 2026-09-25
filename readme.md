@@ -303,8 +303,6 @@ compliance-agent/
 └── venv/               # Python virtual environment
 ```
 
-> `.env` and `venv/` should not be committed to GitHub.
-
 ---
 
 # 🚀 Getting Started
